@@ -37,6 +37,8 @@ if __name__ == "__main__":
 Projects 📦
 -----------
 
+- #### <a href="https://github.com/LorenzoBergamini/Windows-Master-Scripts"><img align="center" src="https://img.shields.io/badge/-Windows Master Scripts-0066FF?style=for-the-badge"></a> :&nbsp; Bootstrap your windows installation!
+
 <br />
 
 Languages 💾
